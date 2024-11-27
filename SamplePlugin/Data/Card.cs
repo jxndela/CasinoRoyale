@@ -41,8 +41,5 @@ public class Card
     {
         if (aNumber == 1) return true;
         return false;
-    }
-
-    
-
+    }   
 }
